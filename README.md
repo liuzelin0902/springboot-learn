@@ -1,7 +1,7 @@
 # springboot-learn
 
 1. springboot创建方式
-2. springboot搭建多模块
+2. [springboot搭建多模块](https://github.com/liuzelin0902/springboot-learn/blob/master/README.md)
 3. 整合thymleaf
 4. jackson
 5. 热部署
