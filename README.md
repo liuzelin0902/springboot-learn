@@ -1,6 +1,6 @@
 # springboot-learn
 
-1. springboot创建方式和注解
+1. springboot创建方式
 2. springboot搭建多模块
 3. 整合thymleaf
 4. jackson
