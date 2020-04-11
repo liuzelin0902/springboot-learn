@@ -3,15 +3,15 @@
 1. [springboot创建方式](https://github.com/liuzelin0902/springboot-learn/blob/master/file/springboot%E9%A1%B9%E7%9B%AE%E7%9A%84%E5%88%9B%E5%BB%BA%E6%96%B9%E5%BC%8F.md)
 2. [springboot搭建多模块](https://github.com/liuzelin0902/springboot-learn/tree/master/demo-parent)
 3. 整合thymleaf
-4. jackson
-5. 热部署
-6. 整合日志
-7. API文档
-8. 参数校验
-9. 统一异常处理 
-10. 过滤器
-11. 监听器
-12. 拦截器
+4. 热部署
+5. 整合日志
+6. API文档
+7. 参数校验
+8. 统一异常处理 
+9. 过滤器
+10. 监听器
+11. 拦截器
+12. 单元测试
 13. AOP
 14. 发送邮件 
 15. 文件下载导入导出
@@ -36,4 +36,4 @@
 34. spring secitty
 35. fastDFS
 36. dubbo
-37. 单元测试
+37. actitvity
