@@ -49,7 +49,7 @@
 
 5. html中引入静态文件，如引入layui，将layui目录放在在resources下static目录下
 
-   ![Snipaste_2020-04-11_18-18-22.png](https://user-gold-cdn.xitu.io/2020/4/11/17168bfb3608e7db?w=409&h=487&f=png&s=18699)
+   ![](https://ae01.alicdn.com/kf/H161054e96cf94fb6b3e4995ba5ff98bdd.png)
 
    ```
    <link th:href="@{/layui/css/layui.css}" rel="stylesheet" type="text/css">
