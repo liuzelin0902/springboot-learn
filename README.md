@@ -3,7 +3,7 @@
 1. [springboot创建方式](https://github.com/liuzelin0902/springboot-learn/blob/master/file/springboot%E9%A1%B9%E7%9B%AE%E7%9A%84%E5%88%9B%E5%BB%BA%E6%96%B9%E5%BC%8F.md)
 2. [springboot搭建多模块](https://github.com/liuzelin0902/springboot-learn/tree/master/demo-parent)
 3. [整合thymleaf](https://github.com/liuzelin0902/springboot-learn/blob/master/file/springboot%E6%95%B4%E5%90%88thymleaf.md)
-4. 热部署
+4. [热部署](https://github.com/liuzelin0902/springboot-learn/blob/master/file/%E7%83%AD%E9%83%A8%E7%BD%B2.md)
 5. 整合日志
 6. API文档
 7. 参数校验
