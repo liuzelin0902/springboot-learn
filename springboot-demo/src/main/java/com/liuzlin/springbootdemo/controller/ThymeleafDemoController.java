@@ -1,5 +1,7 @@
 package com.liuzlin.springbootdemo.controller;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpRequest;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -13,10 +15,14 @@ import java.util.HashMap;
 @Controller
 @RequestMapping("/thymeleaf-demo")
 public class ThymeleafDemoController {
+    private static final Logger logger =
+            LoggerFactory.getLogger(ThymeleafDemoController.class);
 
     @GetMapping("/index")
     public String index(Model model) {
         model.addAttribute("title", "liuzelin, Model");
+        logger.info("hello info");
+        logger.warn("hello warn");
         return "index";
     }
 
