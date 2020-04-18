@@ -79,4 +79,4 @@
 
 输入<http://127.0.0.1:8080/springboot-learn/doc.html>，展示如下
 
-![](https://ae01.alicdn.com/kf/H8411105029014dec9e7e424dc3727221D.png)
+![图片](https://ae01.alicdn.com/kf/H8411105029014dec9e7e424dc3727221D.png)
