@@ -5,7 +5,7 @@
 3. [整合thymleaf](https://github.com/liuzelin0902/springboot-learn/blob/master/file/springboot%E6%95%B4%E5%90%88thymleaf.md)
 4. [热部署](https://github.com/liuzelin0902/springboot-learn/blob/master/file/%E7%83%AD%E9%83%A8%E7%BD%B2.md)
 5. [整合日志](https://github.com/liuzelin0902/springboot-learn/blob/master/file/%E6%95%B4%E5%90%88%E6%97%A5%E5%BF%97%E6%A1%86%E6%9E%B6.md)
-6. API文档
+6. [API文档](https://github.com/liuzelin0902/springboot-learn/blob/master/file/API%E7%AE%A1%E7%90%86.md)
 7. 参数校验
 8. 统一异常处理 
 9. 过滤器
