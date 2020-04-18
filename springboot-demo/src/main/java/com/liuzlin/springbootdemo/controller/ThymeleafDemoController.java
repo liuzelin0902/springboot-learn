@@ -1,5 +1,8 @@
 package com.liuzlin.springbootdemo.controller;
 
+import com.github.xiaoymin.knife4j.annotations.ApiOperationSupport;
+import io.swagger.annotations.Api;
+import io.swagger.annotations.ApiOperation;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpRequest;
@@ -14,10 +17,13 @@ import java.util.HashMap;
 
 @Controller
 @RequestMapping("/thymeleaf-demo")
+@Api(tags = "thymeleaf测试类")
 public class ThymeleafDemoController {
     private static final Logger logger =
             LoggerFactory.getLogger(ThymeleafDemoController.class);
 
+    @ApiOperationSupport(author = "liuzelin")
+    @ApiOperation(value = "首页")
     @GetMapping("/index")
     public String index(Model model) {
         model.addAttribute("title", "liuzelin, Model");
