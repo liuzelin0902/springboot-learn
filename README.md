@@ -6,8 +6,8 @@
 4. [热部署](https://github.com/liuzelin0902/springboot-learn/blob/master/file/%E7%83%AD%E9%83%A8%E7%BD%B2.md)
 5. [整合日志](https://github.com/liuzelin0902/springboot-learn/blob/master/file/%E6%95%B4%E5%90%88%E6%97%A5%E5%BF%97%E6%A1%86%E6%9E%B6.md)
 6. [API文档](https://github.com/liuzelin0902/springboot-learn/blob/master/file/API%E7%AE%A1%E7%90%86.md)
-7. 参数校验
-8. 统一异常处理 
+7. [统一异常处理 ](https://github.com/liuzelin0902/springboot-learn/blob/master/file/%E8%BF%94%E5%9B%9E%E7%BB%93%E6%9E%9C%E5%B0%81%E8%A3%85%E5%92%8C%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86.md)
+8. 参数校验
 9. 过滤器
 10. 监听器
 11. 拦截器
